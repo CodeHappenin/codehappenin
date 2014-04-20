@@ -9,23 +9,23 @@
 - vostlink
 
 ### Eyeclick (http://codehappen.in/page/project/eyeclick)
--scasbyte
+- scasbyte
 
 ### Facemouse (http://codehappen.in/page/project/facemouse)
--vostlink
+- vostlink
 
 ### Kosas (http://codehappen.in/page/project/kosas)
--a-delrio
+- a-delrio
 
 ### Spherix (http://codehappen.in/page/project/spherix)
--jorge
+- jorge
 
 ### Smartwindow (http://codehappen.in/page/project/smartwindow)
--scasbyte
+- scasbyte
 
 ### TreeTalk (http://codehappen.in/page/project/treetalk)
--JesusPatiño
+- JesusPatiño
 
 ### VIHas de Vida (http://codehappen.in/page/project/vihas)
--gerardo
--scasbyte
+- gerardo
+- scasbyte
