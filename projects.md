@@ -1,5 +1,5 @@
-### To enroll yourself on a project just add your GitHub username on a new line on the project you wish.
 ### Para unirte a un proyecto solo agrega tu nombre de usuario de GitHub en una nueva linea en el proyecto de tu elección.
+### To enroll yourself on a project just add your GitHub username on a new line on the project you wish.
 
 ===
 
